@@ -1,3 +1,0 @@
-compatible_environments:
-  - loadbalanced-fargate-env:1
-  - loadbalanced-fargate-env:2
